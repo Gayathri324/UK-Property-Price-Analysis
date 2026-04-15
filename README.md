@@ -74,12 +74,12 @@ property-price-analysis/
 ---
 
 ## How to Use
-1. Clone the repository  
-2. Open the `.pbix` file in Power BI Desktop  
-3. Explore the dashboard  
+- View the interactive dashboard here:  
+  [Tableau Dashboard](https://public.tableau.com/app/profile/gayathri.karagoda.pathiranage/viz/PropertyPriceDashboard/EnglandWalesPropertyPriceDashboard)
 
 ---
 
 ## Author
 Gayathri Karagoda Pathiranage  
 Aspiring Data Analyst  
+
