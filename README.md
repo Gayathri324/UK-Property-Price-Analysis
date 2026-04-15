@@ -56,7 +56,7 @@ The dataset includes:
 ---
 ## Dashboard
 Interactive Dashboard
-[View Tableau Dashboard](your_tableau_link_here)
+[View Tableau Dashboard]([your_tableau_link_here](https://public.tableau.com/app/profile/gayathri.karagoda.pathiranage/viz/PropertyPriceDashboard/EnglandWalesPropertyPriceDashboard)
 
 ## Project Structure
 
