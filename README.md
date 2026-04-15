@@ -27,7 +27,7 @@ The dataset includes:
 ---
 
 ## Dashboard Preview
-![Dashboard](images/property_dashboard.png)
+![Dashboard](Property_Price_Dashboard.png)
 
 ---
 
